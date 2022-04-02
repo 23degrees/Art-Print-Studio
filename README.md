@@ -7,6 +7,9 @@ The template *23AF Studio Print Washi Wrap Template A3.tif* is for washi wrap mo
 
 The template *23AF Studio Print Template B0+.tif* is for multi-image layouts on a B0+ sheet. Printing multiple images on one sheet saves on the cost because the cutting is done by the customer.
 
+### 23AF Studio Washi Proof Preview.psf
+The file *23AF Studio Washi Proof Preview.psf* is for using with Proof Preview in Adobe Photoshop. To use this, in the Photoshop menu *View|Proof Setup|Custom* PSF files can be loaded. These include the ICC profile, so there is no need to download the standalone ICC file.
+
 ### Epson_SC-P9050G.Bamboo170_MB 23AF Studio.icc
 The file *Epson_SC-P9050G.Bamboo170_MB 23AF Studio.icc* is for using with Proof Preview in Adobe Photoshop.
 
